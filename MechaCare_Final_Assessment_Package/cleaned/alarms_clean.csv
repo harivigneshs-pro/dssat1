@@ -1,0 +1,949 @@
+alarm_id,machine,timestamp,alarm_type,alarm_type_clean
+A00001,M001,2026-01-12 12:00:00,warning,general_warning
+A00002,M001,2026-02-16 12:00:00,Warning,general_warning
+A00003,M001,2026-02-23 00:00:00,warning,general_warning
+A00004,M001,2026-03-15 12:00:00,warning,general_warning
+A00005,M001,2026-06-02 12:00:00,Warning,general_warning
+A00006,M001,2026-06-16 12:00:00,over current,overcurrent
+A00007,M001,2026-07-18 12:00:00,warning,general_warning
+A00008,M001,2026-07-19 00:00:00,high_vibration,high_vibration
+A00009,M001,2026-07-20 00:00:00,High Vibration,high_vibration
+A00010,M001,2026-07-22 00:00:00,Warning,general_warning
+A00011,M001,2026-08-06 00:00:00,Warning,general_warning
+A00012,M001,2026-08-10 00:00:00,warning,general_warning
+A00013,M001,2026-08-15 12:00:00,general_warning,general_warning
+A00014,M001,2026-09-03 00:00:00,warning,general_warning
+A00015,M001,2026-09-10 00:00:00,Warning,general_warning
+A00016,M001,2026-09-12 12:00:00,Warning,general_warning
+A00017,M001,2026-09-19 12:00:00,general_warning,general_warning
+A00018,M001,2026-09-25 12:00:00,Warning,general_warning
+A00019,M002,2026-01-27 12:00:00,High Vibration,high_vibration
+A00020,M002,2026-02-17 12:00:00, high vibration ,high_vibration
+A00021,M002,2026-02-19 00:00:00,Warning,general_warning
+A00022,M002,2026-03-28 12:00:00,Warning,general_warning
+A00023,M002,2026-04-19 00:00:00,Warning,general_warning
+A00024,M002,2026-04-23 00:00:00,general_warning,general_warning
+A00025,M002,2026-04-28 12:00:00,general_warning,general_warning
+A00026,M002,2026-05-29 00:00:00,Warning,general_warning
+A00027,M002,2026-06-19 12:00:00, high vibration ,high_vibration
+A00028,M002,2026-06-20 00:00:00,Warning,general_warning
+A00029,M002,2026-06-21 12:00:00,warning,general_warning
+A00030,M002,2026-06-23 00:00:00,Warning,general_warning
+A00031,M002,2026-06-30 12:00:00,general_warning,general_warning
+A00032,M002,2026-07-12 12:00:00,warning,general_warning
+A00033,M002,2026-08-12 12:00:00,Warning,general_warning
+A00034,M002,2026-09-13 12:00:00,general_warning,general_warning
+A00035,M003,2026-01-01 00:00:00,High Vibration,high_vibration
+A00036,M003,2026-01-05 00:00:00,High Vibration,high_vibration
+A00037,M003,2026-01-08 00:00:00,overcurrent,overcurrent
+A00038,M003,2026-02-24 00:00:00,general_warning,general_warning
+A00039,M003,2026-03-03 12:00:00,warning,general_warning
+A00040,M003,2026-03-26 00:00:00,Warning,general_warning
+A00041,M003,2026-04-05 12:00:00,High Vibration,high_vibration
+A00042,M003,2026-04-11 00:00:00,warning,general_warning
+A00043,M003,2026-04-14 00:00:00,warning,general_warning
+A00044,M003,2026-04-18 12:00:00,Warning,general_warning
+A00045,M003,2026-05-19 12:00:00,high_vibration,high_vibration
+A00046,M003,2026-05-23 12:00:00,general_warning,general_warning
+A00047,M003,2026-05-31 12:00:00,Warning,general_warning
+A00048,M003,2026-07-30 12:00:00,general_warning,general_warning
+A00049,M003,2026-09-09 00:00:00,warning,general_warning
+A00050,M003,2026-09-19 00:00:00,general_warning,general_warning
+A00051,M004,2026-01-03 00:00:00, high vibration ,high_vibration
+A00052,M004,2026-01-10 00:00:00,High Vibration,high_vibration
+A00053,M004,2026-01-25 00:00:00,warning,general_warning
+A00054,M004,2026-01-26 00:00:00,temp_high,high_temperature
+A00055,M004,2026-01-27 12:00:00,temp_high,high_temperature
+A00056,M004,2026-01-29 12:00:00,High Vibration,high_vibration
+A00057,M004,2026-01-30 00:00:00,temp_high,high_temperature
+A00058,M004,2026-01-30 12:00:00,Warning,general_warning
+A00059,M004,2026-01-31 12:00:00,High Vibration,high_vibration
+A00060,M004,2026-02-07 12:00:00,High Vibration,high_vibration
+A00061,M004,2026-02-08 00:00:00,high_vibration,high_vibration
+A00062,M004,2026-02-17 12:00:00,High Vibration,high_vibration
+A00063,M004,2026-02-25 12:00:00,high_vibration,high_vibration
+A00064,M004,2026-02-26 00:00:00, high vibration ,high_vibration
+A00065,M004,2026-03-01 00:00:00,High Vibration,high_vibration
+A00066,M004,2026-03-07 12:00:00, high vibration ,high_vibration
+A00067,M004,2026-03-08 12:00:00, high vibration ,high_vibration
+A00068,M004,2026-03-09 00:00:00,high_vibration,high_vibration
+A00069,M004,2026-03-12 00:00:00,High Vibration,high_vibration
+A00070,M004,2026-03-15 12:00:00,high_vibration,high_vibration
+A00071,M004,2026-03-18 00:00:00,overcurrent,overcurrent
+A00072,M004,2026-03-29 00:00:00,high_vibration,high_vibration
+A00073,M004,2026-04-02 00:00:00, high vibration ,high_vibration
+A00074,M004,2026-04-12 12:00:00,high_temperature,high_temperature
+A00075,M004,2026-04-16 12:00:00,temp_high,high_temperature
+A00076,M004,2026-04-18 12:00:00, high vibration ,high_vibration
+A00077,M004,2026-04-20 00:00:00,High Vibration,high_vibration
+A00078,M004,2026-04-21 00:00:00,warning,general_warning
+A00079,M004,2026-04-22 00:00:00,temp_high,high_temperature
+A00080,M004,2026-04-24 00:00:00,high_vibration,high_vibration
+A00081,M004,2026-04-29 12:00:00,over current,overcurrent
+A00082,M004,2026-05-10 12:00:00,High Vibration,high_vibration
+A00083,M004,2026-05-11 00:00:00,high_vibration,high_vibration
+A00084,M004,2026-05-15 00:00:00,temp_high,high_temperature
+A00085,M004,2026-05-15 12:00:00, high vibration ,high_vibration
+A00086,M004,2026-05-17 00:00:00,High Vibration,high_vibration
+A00087,M004,2026-05-20 00:00:00, high vibration ,high_vibration
+A00088,M004,2026-05-21 12:00:00,High Vibration,high_vibration
+A00089,M004,2026-05-24 00:00:00,high_vibration,high_vibration
+A00090,M004,2026-05-27 12:00:00,general_warning,general_warning
+A00091,M004,2026-05-30 00:00:00,High Vibration,high_vibration
+A00092,M004,2026-06-03 12:00:00,general_warning,general_warning
+A00093,M004,2026-06-06 00:00:00, high vibration ,high_vibration
+A00094,M004,2026-06-09 12:00:00,High Vibration,high_vibration
+A00095,M004,2026-06-16 12:00:00,High Temperature,high_temperature
+A00096,M004,2026-06-18 00:00:00,high_temperature,high_temperature
+A00097,M004,2026-06-23 00:00:00,general_warning,general_warning
+A00098,M004,2026-06-24 00:00:00,Warning,general_warning
+A00099,M004,2026-06-24 12:00:00, high vibration ,high_vibration
+A00100,M004,2026-07-01 00:00:00,high_vibration,high_vibration
+A00101,M004,2026-07-03 00:00:00, high vibration ,high_vibration
+A00102,M004,2026-07-07 12:00:00,High Vibration,high_vibration
+A00103,M004,2026-07-08 00:00:00,High Vibration,high_vibration
+A00104,M004,2026-07-08 12:00:00,high_vibration,high_vibration
+A00105,M004,2026-07-20 12:00:00,warning,general_warning
+A00106,M004,2026-07-24 00:00:00,Warning,general_warning
+A00107,M004,2026-07-25 00:00:00,high_temperature,high_temperature
+A00108,M004,2026-08-10 12:00:00,high_vibration,high_vibration
+A00109,M004,2026-08-22 00:00:00,High Temperature,high_temperature
+A00110,M004,2026-09-09 12:00:00,over current,overcurrent
+A00111,M004,2026-09-15 00:00:00,high_temperature,high_temperature
+A00112,M004,2026-09-19 12:00:00,High Temperature,high_temperature
+A00113,M004,2026-09-24 00:00:00,high_vibration,high_vibration
+A00114,M005,2026-02-13 00:00:00,general_warning,general_warning
+A00115,M005,2026-03-01 00:00:00,Warning,general_warning
+A00116,M005,2026-03-03 00:00:00,warning,general_warning
+A00117,M005,2026-03-26 12:00:00,Warning,general_warning
+A00118,M005,2026-03-27 12:00:00,general_warning,general_warning
+A00119,M005,2026-04-26 00:00:00,general_warning,general_warning
+A00120,M005,2026-05-25 12:00:00,High Vibration,high_vibration
+A00121,M005,2026-05-30 12:00:00, high vibration ,high_vibration
+A00122,M005,2026-06-05 12:00:00,High Temperature,high_temperature
+A00123,M005,2026-06-16 00:00:00,Warning,general_warning
+A00124,M005,2026-07-23 00:00:00,warning,general_warning
+A00125,M005,2026-08-22 00:00:00,warning,general_warning
+A00126,M005,2026-08-30 00:00:00,general_warning,general_warning
+A00127,M005,2026-09-23 00:00:00,warning,general_warning
+A00128,M005,2026-09-25 12:00:00,Warning,general_warning
+A00129,M006,2026-02-20 12:00:00,general_warning,general_warning
+A00130,M006,2026-06-03 00:00:00,general_warning,general_warning
+A00131,M006,2026-06-05 12:00:00,general_warning,general_warning
+A00132,M006,2026-06-30 00:00:00,Warning,general_warning
+A00133,M006,2026-07-21 12:00:00,warning,general_warning
+A00134,M006,2026-08-01 12:00:00,Warning,general_warning
+A00135,M006,2026-08-02 00:00:00,warning,general_warning
+A00136,M006,2026-08-08 12:00:00,warning,general_warning
+A00137,M006,2026-08-10 12:00:00,Warning,general_warning
+A00138,M006,2026-09-13 12:00:00,warning,general_warning
+A00139,M006,2026-09-15 00:00:00,warning,general_warning
+A00140,M006,2026-09-28 12:00:00,warning,general_warning
+A00141,M007,2026-03-12 12:00:00,warning,general_warning
+A00142,M007,2026-04-11 12:00:00,high_vibration,high_vibration
+A00143,M007,2026-04-24 00:00:00,temp_high,high_temperature
+A00144,M007,2026-05-17 12:00:00,general_warning,general_warning
+A00145,M007,2026-07-08 00:00:00,over current,overcurrent
+A00146,M007,2026-07-23 00:00:00,warning,general_warning
+A00147,M007,2026-08-06 00:00:00,general_warning,general_warning
+A00148,M007,2026-08-08 12:00:00,general_warning,general_warning
+A00149,M007,2026-09-23 00:00:00,general_warning,general_warning
+A00150,M007,2026-09-28 00:00:00,Warning,general_warning
+A00151,M008,2026-01-06 00:00:00,general_warning,general_warning
+A00152,M008,2026-01-23 12:00:00,general_warning,general_warning
+A00153,M008,2026-07-15 00:00:00,warning,general_warning
+A00154,M008,2026-08-10 12:00:00,Warning,general_warning
+A00155,M008,2026-08-20 12:00:00,Warning,general_warning
+A00156,M008,2026-09-08 00:00:00,general_warning,general_warning
+A00157,M008,2026-09-12 12:00:00,general_warning,general_warning
+A00158,M008,2026-09-20 12:00:00,warning,general_warning
+A00159,M008,2026-09-21 12:00:00,warning,general_warning
+A00160,M009,2026-01-14 12:00:00,warning,general_warning
+A00161,M009,2026-01-16 00:00:00,warning,general_warning
+A00162,M009,2026-02-07 00:00:00,warning,general_warning
+A00163,M009,2026-02-11 00:00:00,general_warning,general_warning
+A00164,M009,2026-03-16 00:00:00,Warning,general_warning
+A00165,M009,2026-03-30 12:00:00,warning,general_warning
+A00166,M009,2026-04-05 00:00:00,Warning,general_warning
+A00167,M009,2026-04-26 12:00:00,general_warning,general_warning
+A00168,M009,2026-05-07 12:00:00,warning,general_warning
+A00169,M009,2026-05-11 12:00:00,warning,general_warning
+A00170,M009,2026-05-25 12:00:00,general_warning,general_warning
+A00171,M009,2026-06-02 12:00:00,Warning,general_warning
+A00172,M009,2026-08-09 00:00:00,warning,general_warning
+A00173,M009,2026-08-18 00:00:00,warning,general_warning
+A00174,M009,2026-09-09 00:00:00,Warning,general_warning
+A00175,M010,2026-01-19 00:00:00,warning,general_warning
+A00176,M010,2026-03-02 00:00:00,warning,general_warning
+A00177,M010,2026-03-14 00:00:00,Warning,general_warning
+A00178,M010,2026-03-27 12:00:00,Warning,general_warning
+A00179,M010,2026-04-19 00:00:00,Warning,general_warning
+A00180,M010,2026-05-14 12:00:00,Warning,general_warning
+A00181,M010,2026-05-18 12:00:00,Warning,general_warning
+A00182,M010,2026-06-15 12:00:00,warning,general_warning
+A00183,M010,2026-07-10 00:00:00,general_warning,general_warning
+A00184,M010,2026-09-30 00:00:00,general_warning,general_warning
+A00185,M011,2026-01-06 12:00:00,general_warning,general_warning
+A00186,M011,2026-01-11 00:00:00, high vibration ,high_vibration
+A00187,M011,2026-02-04 00:00:00, high vibration ,high_vibration
+A00188,M011,2026-02-07 00:00:00,High Vibration,high_vibration
+A00189,M011,2026-02-09 12:00:00,Warning,general_warning
+A00190,M011,2026-02-15 12:00:00,general_warning,general_warning
+A00191,M011,2026-02-19 00:00:00,warning,general_warning
+A00192,M011,2026-02-22 12:00:00,High Vibration,high_vibration
+A00193,M011,2026-02-26 12:00:00,general_warning,general_warning
+A00194,M011,2026-03-01 00:00:00,high_temperature,high_temperature
+A00195,M011,2026-03-02 12:00:00,High Vibration,high_vibration
+A00196,M011,2026-03-08 12:00:00, high vibration ,high_vibration
+A00197,M011,2026-03-20 12:00:00,Warning,general_warning
+A00198,M011,2026-03-27 00:00:00,general_warning,general_warning
+A00199,M011,2026-03-30 00:00:00, high vibration ,high_vibration
+A00200,M011,2026-04-02 00:00:00,Warning,general_warning
+A00201,M011,2026-04-07 00:00:00,overcurrent,overcurrent
+A00202,M011,2026-04-10 12:00:00,general_warning,general_warning
+A00203,M011,2026-05-09 00:00:00,Warning,general_warning
+A00204,M011,2026-05-16 00:00:00,High Vibration,high_vibration
+A00205,M011,2026-06-04 00:00:00,Warning,general_warning
+A00206,M011,2026-06-21 12:00:00,High Temperature,high_temperature
+A00207,M011,2026-06-25 00:00:00,warning,general_warning
+A00208,M011,2026-07-04 12:00:00,high_vibration,high_vibration
+A00209,M011,2026-07-06 12:00:00,High Temperature,high_temperature
+A00210,M011,2026-07-11 00:00:00,general_warning,general_warning
+A00211,M011,2026-07-14 00:00:00,warning,general_warning
+A00212,M011,2026-07-14 12:00:00,Warning,general_warning
+A00213,M011,2026-08-11 00:00:00,High Vibration,high_vibration
+A00214,M011,2026-08-25 00:00:00, high vibration ,high_vibration
+A00215,M011,2026-08-29 12:00:00,high_vibration,high_vibration
+A00216,M011,2026-09-08 12:00:00,high_vibration,high_vibration
+A00217,M011,2026-09-14 00:00:00,High Temperature,high_temperature
+A00218,M011,2026-09-15 12:00:00,over current,overcurrent
+A00219,M011,2026-09-17 12:00:00,High Vibration,high_vibration
+A00220,M011,2026-09-22 12:00:00,High Vibration,high_vibration
+A00221,M011,2026-09-27 12:00:00,high_vibration,high_vibration
+A00222,M012,2026-02-01 12:00:00,general_warning,general_warning
+A00223,M012,2026-03-27 12:00:00,general_warning,general_warning
+A00224,M012,2026-04-09 12:00:00,general_warning,general_warning
+A00225,M012,2026-04-14 12:00:00,Warning,general_warning
+A00226,M012,2026-04-17 12:00:00,warning,general_warning
+A00227,M012,2026-04-26 12:00:00,Warning,general_warning
+A00228,M012,2026-05-03 12:00:00,Warning,general_warning
+A00229,M012,2026-06-21 00:00:00,warning,general_warning
+A00230,M012,2026-07-10 00:00:00,warning,general_warning
+A00231,M013,2026-01-23 00:00:00,general_warning,general_warning
+A00232,M013,2026-02-02 00:00:00,warning,general_warning
+A00233,M013,2026-02-20 00:00:00,Warning,general_warning
+A00234,M013,2026-04-12 12:00:00, high vibration ,high_vibration
+A00235,M013,2026-04-28 00:00:00,Warning,general_warning
+A00236,M013,2026-05-25 00:00:00,Warning,general_warning
+A00237,M013,2026-06-26 12:00:00,Warning,general_warning
+A00238,M013,2026-07-01 12:00:00,high_temperature,high_temperature
+A00239,M013,2026-07-25 00:00:00,warning,general_warning
+A00240,M013,2026-09-01 00:00:00,Warning,general_warning
+A00241,M013,2026-09-05 00:00:00,warning,general_warning
+A00242,M014,2026-01-08 00:00:00,Warning,general_warning
+A00243,M014,2026-02-20 00:00:00,,unknown
+A00244,M014,2026-03-07 00:00:00,warning,general_warning
+A00245,M014,2026-04-19 00:00:00,warning,general_warning
+A00246,M014,2026-04-21 00:00:00,general_warning,general_warning
+A00247,M014,2026-05-11 00:00:00,general_warning,general_warning
+A00248,M014,2026-05-12 00:00:00,Warning,general_warning
+A00249,M015,2026-01-20 00:00:00,Warning,general_warning
+A00250,M015,2026-01-24 12:00:00,Warning,general_warning
+A00251,M015,2026-01-28 00:00:00,over current,overcurrent
+A00252,M015,2026-02-08 12:00:00,general_warning,general_warning
+A00253,M015,2026-02-26 12:00:00,general_warning,general_warning
+A00254,M015,2026-03-12 12:00:00,Warning,general_warning
+A00255,M015,2026-05-31 00:00:00,warning,general_warning
+A00256,M015,2026-06-15 12:00:00,Warning,general_warning
+A00257,M015,2026-07-08 00:00:00,Warning,general_warning
+A00258,M015,2026-07-18 00:00:00,warning,general_warning
+A00259,M015,2026-07-18 12:00:00,warning,general_warning
+A00260,M015,2026-08-04 12:00:00,warning,general_warning
+A00261,M015,2026-08-26 12:00:00,Warning,general_warning
+A00262,M016,2026-03-27 00:00:00,warning,general_warning
+A00263,M016,2026-04-01 12:00:00,warning,general_warning
+A00264,M016,2026-05-21 12:00:00,general_warning,general_warning
+A00265,M016,2026-07-18 00:00:00,general_warning,general_warning
+A00266,M016,2026-07-22 12:00:00,Warning,general_warning
+A00267,M016,2026-09-22 12:00:00,warning,general_warning
+A00268,M017,2026-01-13 12:00:00,warning,general_warning
+A00269,M017,2026-04-13 00:00:00,Warning,general_warning
+A00270,M017,2026-04-16 00:00:00,general_warning,general_warning
+A00271,M017,2026-06-07 00:00:00,Warning,general_warning
+A00272,M017,2026-07-24 00:00:00,general_warning,general_warning
+A00273,M017,2026-08-26 12:00:00,general_warning,general_warning
+A00274,M017,2026-08-28 00:00:00,Warning,general_warning
+A00275,M017,2026-08-31 12:00:00,warning,general_warning
+A00276,M017,2026-09-25 00:00:00,general_warning,general_warning
+A00277,M018,2026-01-07 00:00:00,general_warning,general_warning
+A00278,M018,2026-02-08 00:00:00,warning,general_warning
+A00279,M018,2026-02-17 12:00:00,general_warning,general_warning
+A00280,M018,2026-02-20 00:00:00,warning,general_warning
+A00281,M018,2026-04-01 00:00:00,general_warning,general_warning
+A00282,M018,2026-07-19 12:00:00,Warning,general_warning
+A00283,M018,2026-07-23 12:00:00,general_warning,general_warning
+A00284,M018,2026-07-25 00:00:00,Warning,general_warning
+A00285,M018,2026-09-14 00:00:00,general_warning,general_warning
+A00286,M018,2026-09-15 12:00:00,general_warning,general_warning
+A00287,M019,2026-01-11 00:00:00,warning,general_warning
+A00288,M019,2026-01-22 12:00:00,Warning,general_warning
+A00289,M019,2026-01-25 12:00:00,general_warning,general_warning
+A00290,M019,2026-02-16 00:00:00,general_warning,general_warning
+A00291,M019,2026-02-21 12:00:00,general_warning,general_warning
+A00292,M019,2026-02-24 00:00:00, high vibration ,high_vibration
+A00293,M019,2026-02-28 00:00:00,Warning,general_warning
+A00294,M019,2026-02-28 12:00:00,High Vibration,high_vibration
+A00295,M019,2026-03-06 12:00:00,temp_high,high_temperature
+A00296,M019,2026-03-09 12:00:00,Warning,general_warning
+A00297,M019,2026-03-27 12:00:00,general_warning,general_warning
+A00298,M019,2026-04-04 00:00:00,High Vibration,high_vibration
+A00299,M019,2026-04-27 00:00:00,High Vibration,high_vibration
+A00300,M019,2026-05-01 00:00:00,Warning,general_warning
+A00301,M019,2026-05-24 00:00:00,general_warning,general_warning
+A00302,M019,2026-05-28 12:00:00,over current,overcurrent
+A00303,M019,2026-05-31 00:00:00,High Vibration,high_vibration
+A00304,M019,2026-06-08 12:00:00,high_temperature,high_temperature
+A00305,M019,2026-07-05 00:00:00,over current,overcurrent
+A00306,M019,2026-07-25 12:00:00,high_vibration,high_vibration
+A00307,M019,2026-07-26 00:00:00,Warning,general_warning
+A00308,M019,2026-08-04 00:00:00,high_vibration,high_vibration
+A00309,M019,2026-08-09 00:00:00, high vibration ,high_vibration
+A00310,M019,2026-08-12 12:00:00,overcurrent,overcurrent
+A00311,M019,2026-08-14 12:00:00,temp_high,high_temperature
+A00312,M019,2026-09-04 00:00:00,High Vibration,high_vibration
+A00313,M019,2026-09-05 12:00:00,warning,general_warning
+A00314,M019,2026-09-13 00:00:00,general_warning,general_warning
+A00315,M019,2026-09-29 00:00:00, high vibration ,high_vibration
+A00316,M020,2026-01-10 00:00:00,warning,general_warning
+A00317,M020,2026-02-03 12:00:00,Warning,general_warning
+A00318,M020,2026-02-22 12:00:00,Warning,general_warning
+A00319,M020,2026-05-21 00:00:00,Warning,general_warning
+A00320,M020,2026-06-02 12:00:00,warning,general_warning
+A00321,M020,2026-08-17 00:00:00,warning,general_warning
+A00322,M020,2026-09-27 00:00:00,general_warning,general_warning
+A00323,M021,2026-01-06 12:00:00,Warning,general_warning
+A00324,M021,2026-03-12 12:00:00,warning,general_warning
+A00325,M021,2026-03-28 00:00:00,Warning,general_warning
+A00326,M021,2026-06-04 12:00:00,warning,general_warning
+A00327,M021,2026-06-22 12:00:00,warning,general_warning
+A00328,M021,2026-07-01 00:00:00,general_warning,general_warning
+A00329,M021,2026-07-09 12:00:00,Warning,general_warning
+A00330,M021,2026-08-15 00:00:00,High Vibration,high_vibration
+A00331,M021,2026-08-27 12:00:00,general_warning,general_warning
+A00332,M022,2026-01-30 12:00:00,general_warning,general_warning
+A00333,M022,2026-02-17 12:00:00,warning,general_warning
+A00334,M022,2026-04-25 12:00:00,Warning,general_warning
+A00335,M022,2026-05-08 00:00:00,Warning,general_warning
+A00336,M022,2026-05-09 12:00:00,general_warning,general_warning
+A00337,M022,2026-05-28 12:00:00,warning,general_warning
+A00338,M022,2026-06-11 00:00:00,High Temperature,high_temperature
+A00339,M022,2026-06-24 00:00:00,warning,general_warning
+A00340,M022,2026-07-09 12:00:00,general_warning,general_warning
+A00341,M022,2026-08-09 00:00:00,general_warning,general_warning
+A00342,M022,2026-08-19 00:00:00,warning,general_warning
+A00343,M023,2026-02-11 00:00:00,Warning,general_warning
+A00344,M023,2026-02-20 12:00:00,warning,general_warning
+A00345,M023,2026-02-24 12:00:00,general_warning,general_warning
+A00346,M023,2026-03-18 12:00:00,Warning,general_warning
+A00347,M023,2026-04-18 00:00:00,general_warning,general_warning
+A00348,M023,2026-05-03 12:00:00,warning,general_warning
+A00349,M023,2026-05-07 00:00:00,warning,general_warning
+A00350,M023,2026-05-17 12:00:00,warning,general_warning
+A00351,M023,2026-06-29 00:00:00,Warning,general_warning
+A00352,M023,2026-08-17 12:00:00,Warning,general_warning
+A00353,M024,2026-01-03 12:00:00,warning,general_warning
+A00354,M024,2026-01-17 00:00:00,warning,general_warning
+A00355,M024,2026-02-09 12:00:00,Warning,general_warning
+A00356,M024,2026-02-16 00:00:00,overcurrent,overcurrent
+A00357,M024,2026-02-23 00:00:00,High Vibration,high_vibration
+A00358,M024,2026-02-26 12:00:00,Warning,general_warning
+A00359,M024,2026-03-24 12:00:00,general_warning,general_warning
+A00360,M024,2026-05-06 12:00:00,Warning,general_warning
+A00361,M024,2026-07-14 12:00:00,warning,general_warning
+A00362,M024,2026-07-25 00:00:00,general_warning,general_warning
+A00363,M024,2026-08-01 12:00:00,general_warning,general_warning
+A00364,M024,2026-09-17 12:00:00,general_warning,general_warning
+A00365,M025,2026-04-04 00:00:00,general_warning,general_warning
+A00366,M025,2026-04-10 00:00:00,general_warning,general_warning
+A00367,M025,2026-05-22 12:00:00,warning,general_warning
+A00368,M025,2026-06-10 12:00:00,warning,general_warning
+A00369,M025,2026-08-14 00:00:00,warning,general_warning
+A00370,M025,2026-09-28 00:00:00,Warning,general_warning
+A00371,M026,2026-01-16 12:00:00,warning,general_warning
+A00372,M026,2026-02-12 00:00:00,Warning,general_warning
+A00373,M026,2026-02-13 12:00:00,general_warning,general_warning
+A00374,M026,2026-03-04 12:00:00,Warning,general_warning
+A00375,M026,2026-06-20 00:00:00,general_warning,general_warning
+A00376,M026,2026-06-29 00:00:00,general_warning,general_warning
+A00377,M026,2026-07-06 12:00:00,warning,general_warning
+A00378,M026,2026-07-31 00:00:00,general_warning,general_warning
+A00379,M026,2026-08-10 00:00:00,warning,general_warning
+A00380,M026,2026-09-05 12:00:00,high_vibration,high_vibration
+A00381,M026,2026-09-22 00:00:00,general_warning,general_warning
+A00382,M027,2026-01-06 00:00:00, high vibration ,high_vibration
+A00383,M027,2026-01-12 12:00:00,High Temperature,high_temperature
+A00384,M027,2026-01-18 12:00:00,High Temperature,high_temperature
+A00385,M027,2026-01-23 00:00:00,high_vibration,high_vibration
+A00386,M027,2026-01-28 00:00:00, high vibration ,high_vibration
+A00387,M027,2026-01-29 00:00:00,High Vibration,high_vibration
+A00388,M027,2026-01-31 12:00:00, high vibration ,high_vibration
+A00389,M027,2026-02-08 12:00:00,Warning,general_warning
+A00390,M027,2026-02-18 00:00:00,High Vibration,high_vibration
+A00391,M027,2026-02-24 12:00:00,warning,general_warning
+A00392,M027,2026-03-06 00:00:00,high_temperature,high_temperature
+A00393,M027,2026-03-07 12:00:00, high vibration ,high_vibration
+A00394,M027,2026-03-08 12:00:00,High Temperature,high_temperature
+A00395,M027,2026-03-10 12:00:00,high_vibration,high_vibration
+A00396,M027,2026-03-23 00:00:00,high_temperature,high_temperature
+A00397,M027,2026-03-25 12:00:00,high_vibration,high_vibration
+A00398,M027,2026-03-28 00:00:00, high vibration ,high_vibration
+A00399,M027,2026-04-16 12:00:00,warning,general_warning
+A00400,M027,2026-04-30 12:00:00,High Vibration,high_vibration
+A00401,M027,2026-05-02 00:00:00,High Vibration,high_vibration
+A00402,M027,2026-05-09 12:00:00,high_vibration,high_vibration
+A00403,M027,2026-05-12 12:00:00,High Vibration,high_vibration
+A00404,M027,2026-05-28 00:00:00, high vibration ,high_vibration
+A00405,M027,2026-05-30 00:00:00,high_vibration,high_vibration
+A00406,M027,2026-06-03 12:00:00, high vibration ,high_vibration
+A00407,M027,2026-06-08 12:00:00,High Vibration,high_vibration
+A00408,M027,2026-06-14 00:00:00,High Vibration,high_vibration
+A00409,M027,2026-06-14 12:00:00, high vibration ,high_vibration
+A00410,M027,2026-06-15 12:00:00,temp_high,high_temperature
+A00411,M027,2026-06-16 00:00:00,high_vibration,high_vibration
+A00412,M027,2026-06-18 12:00:00,High Vibration,high_vibration
+A00413,M027,2026-06-20 00:00:00,High Vibration,high_vibration
+A00414,M027,2026-06-21 00:00:00,high_vibration,high_vibration
+A00415,M027,2026-06-27 12:00:00,High Vibration,high_vibration
+A00416,M027,2026-06-29 00:00:00,High Vibration,high_vibration
+A00417,M027,2026-07-02 00:00:00,High Vibration,high_vibration
+A00418,M027,2026-07-05 12:00:00,high_temperature,high_temperature
+A00419,M027,2026-07-10 00:00:00,high_temperature,high_temperature
+A00420,M027,2026-07-16 00:00:00, high vibration ,high_vibration
+A00421,M027,2026-07-17 00:00:00,high_vibration,high_vibration
+A00422,M027,2026-07-18 00:00:00,high_temperature,high_temperature
+A00423,M027,2026-07-22 12:00:00,high_temperature,high_temperature
+A00424,M027,2026-07-26 00:00:00,High Temperature,high_temperature
+A00425,M027,2026-07-28 12:00:00, high vibration ,high_vibration
+A00426,M027,2026-08-08 12:00:00,warning,general_warning
+A00427,M027,2026-08-16 12:00:00,warning,general_warning
+A00428,M027,2026-08-21 12:00:00, high vibration ,high_vibration
+A00429,M027,2026-08-23 00:00:00,high_vibration,high_vibration
+A00430,M027,2026-08-26 12:00:00,high_vibration,high_vibration
+A00431,M027,2026-08-27 12:00:00,high_vibration,high_vibration
+A00432,M027,2026-09-05 00:00:00,High Temperature,high_temperature
+A00433,M027,2026-09-07 12:00:00,Over Current,overcurrent
+A00434,M027,2026-09-10 00:00:00,High Vibration,high_vibration
+A00435,M027,2026-09-10 12:00:00, high vibration ,high_vibration
+A00436,M027,2026-09-16 00:00:00, high vibration ,high_vibration
+A00437,M027,2026-09-20 00:00:00,warning,general_warning
+A00438,M028,2026-02-11 00:00:00,warning,general_warning
+A00439,M028,2026-03-29 00:00:00,temp_high,high_temperature
+A00440,M028,2026-04-19 12:00:00,Warning,general_warning
+A00441,M028,2026-04-20 00:00:00,Warning,general_warning
+A00442,M028,2026-04-30 00:00:00,Warning,general_warning
+A00443,M028,2026-05-15 00:00:00,warning,general_warning
+A00444,M028,2026-05-23 12:00:00,Warning,general_warning
+A00445,M028,2026-08-11 00:00:00,warning,general_warning
+A00446,M028,2026-08-23 12:00:00,general_warning,general_warning
+A00447,M028,2026-09-02 12:00:00,Warning,general_warning
+A00448,M028,2026-09-10 00:00:00,warning,general_warning
+A00449,M028,2026-09-22 12:00:00,Warning,general_warning
+A00450,M029,2026-02-09 12:00:00,High Vibration,high_vibration
+A00451,M029,2026-03-14 00:00:00,general_warning,general_warning
+A00452,M029,2026-04-19 00:00:00,Warning,general_warning
+A00453,M029,2026-04-29 00:00:00,Warning,general_warning
+A00454,M029,2026-05-27 00:00:00,general_warning,general_warning
+A00455,M029,2026-05-28 12:00:00,general_warning,general_warning
+A00456,M029,2026-06-17 12:00:00,general_warning,general_warning
+A00457,M029,2026-06-24 12:00:00,Warning,general_warning
+A00458,M029,2026-07-18 12:00:00,high_vibration,high_vibration
+A00459,M029,2026-07-29 12:00:00,warning,general_warning
+A00460,M029,2026-08-05 00:00:00,general_warning,general_warning
+A00461,M029,2026-08-12 00:00:00,Warning,general_warning
+A00462,M030,2026-04-02 00:00:00,warning,general_warning
+A00463,M030,2026-04-04 00:00:00,Warning,general_warning
+A00464,M030,2026-04-10 12:00:00,Warning,general_warning
+A00465,M030,2026-04-28 00:00:00,general_warning,general_warning
+A00466,M030,2026-05-16 00:00:00,warning,general_warning
+A00467,M030,2026-05-17 12:00:00,warning,general_warning
+A00468,M030,2026-06-04 12:00:00,warning,general_warning
+A00469,M030,2026-08-08 00:00:00,general_warning,general_warning
+A00470,M030,2026-09-24 00:00:00,warning,general_warning
+A00471,M031,2026-01-05 00:00:00,Warning,general_warning
+A00472,M031,2026-01-15 00:00:00,warning,general_warning
+A00473,M031,2026-03-15 00:00:00,warning,general_warning
+A00474,M031,2026-03-30 00:00:00,general_warning,general_warning
+A00475,M031,2026-05-07 12:00:00,Warning,general_warning
+A00476,M031,2026-05-17 12:00:00,warning,general_warning
+A00477,M032,2026-01-28 12:00:00,general_warning,general_warning
+A00478,M032,2026-02-01 00:00:00,general_warning,general_warning
+A00479,M032,2026-02-13 00:00:00,warning,general_warning
+A00480,M032,2026-04-21 12:00:00,warning,general_warning
+A00481,M032,2026-04-24 00:00:00,Warning,general_warning
+A00482,M032,2026-07-11 00:00:00,warning,general_warning
+A00483,M033,2026-01-02 12:00:00,Warning,general_warning
+A00484,M033,2026-01-25 12:00:00,Warning,general_warning
+A00485,M033,2026-04-01 12:00:00,general_warning,general_warning
+A00486,M033,2026-04-09 12:00:00,warning,general_warning
+A00487,M033,2026-05-28 00:00:00,warning,general_warning
+A00488,M033,2026-06-07 12:00:00,High Vibration,high_vibration
+A00489,M033,2026-06-13 12:00:00,warning,general_warning
+A00490,M033,2026-09-08 00:00:00,general_warning,general_warning
+A00491,M033,2026-09-20 12:00:00,general_warning,general_warning
+A00492,M033,2026-09-26 00:00:00,Warning,general_warning
+A00493,M034,2026-01-31 00:00:00,warning,general_warning
+A00494,M034,2026-01-31 12:00:00,Warning,general_warning
+A00495,M034,2026-02-12 00:00:00,warning,general_warning
+A00496,M034,2026-02-26 00:00:00,Warning,general_warning
+A00497,M034,2026-03-06 12:00:00,Warning,general_warning
+A00498,M034,2026-04-01 12:00:00,warning,general_warning
+A00499,M034,2026-04-03 00:00:00,warning,general_warning
+A00500,M034,2026-05-22 00:00:00,warning,general_warning
+A00501,M034,2026-06-08 00:00:00,Warning,general_warning
+A00502,M034,2026-06-12 00:00:00,temp_high,high_temperature
+A00503,M034,2026-06-16 00:00:00,Warning,general_warning
+A00504,M034,2026-06-24 12:00:00,High Vibration,high_vibration
+A00505,M034,2026-07-19 00:00:00,Warning,general_warning
+A00506,M034,2026-07-19 12:00:00,warning,general_warning
+A00507,M034,2026-08-22 12:00:00,Warning,general_warning
+A00508,M034,2026-09-07 12:00:00,general_warning,general_warning
+A00509,M034,2026-09-09 12:00:00,Warning,general_warning
+A00510,M035,2026-01-31 12:00:00,warning,general_warning
+A00511,M035,2026-02-04 00:00:00,Warning,general_warning
+A00512,M035,2026-02-04 12:00:00,general_warning,general_warning
+A00513,M035,2026-02-06 00:00:00,Warning,general_warning
+A00514,M035,2026-03-06 00:00:00,general_warning,general_warning
+A00515,M035,2026-04-05 12:00:00,Warning,general_warning
+A00516,M035,2026-06-02 00:00:00,Warning,general_warning
+A00517,M035,2026-07-02 00:00:00,general_warning,general_warning
+A00518,M035,2026-07-12 00:00:00,general_warning,general_warning
+A00519,M035,2026-08-19 12:00:00,warning,general_warning
+A00520,M035,2026-09-01 12:00:00,general_warning,general_warning
+A00521,M035,2026-09-21 00:00:00,general_warning,general_warning
+A00522,M035,2026-09-26 12:00:00,general_warning,general_warning
+A00523,M036,2026-01-04 00:00:00,general_warning,general_warning
+A00524,M036,2026-01-11 12:00:00,general_warning,general_warning
+A00525,M036,2026-02-07 00:00:00,Warning,general_warning
+A00526,M036,2026-02-09 12:00:00,warning,general_warning
+A00527,M036,2026-02-13 00:00:00,High Vibration,high_vibration
+A00528,M036,2026-02-14 12:00:00,warning,general_warning
+A00529,M036,2026-02-21 12:00:00,general_warning,general_warning
+A00530,M036,2026-02-24 00:00:00,Warning,general_warning
+A00531,M036,2026-03-11 12:00:00,general_warning,general_warning
+A00532,M036,2026-03-22 12:00:00,Warning,general_warning
+A00533,M036,2026-03-25 12:00:00, high vibration ,high_vibration
+A00534,M036,2026-04-30 00:00:00,Warning,general_warning
+A00535,M036,2026-07-08 12:00:00,general_warning,general_warning
+A00536,M036,2026-07-19 12:00:00,general_warning,general_warning
+A00537,M036,2026-08-12 12:00:00,warning,general_warning
+A00538,M036,2026-08-16 12:00:00,general_warning,general_warning
+A00539,M036,2026-09-04 12:00:00,warning,general_warning
+A00540,M036,2026-09-15 00:00:00,general_warning,general_warning
+A00541,M036,2026-09-21 12:00:00,general_warning,general_warning
+A00542,M037,2026-01-10 12:00:00,warning,general_warning
+A00543,M037,2026-02-20 12:00:00,Warning,general_warning
+A00544,M037,2026-02-26 12:00:00,warning,general_warning
+A00545,M037,2026-03-05 12:00:00,warning,general_warning
+A00546,M037,2026-03-10 00:00:00,temp_high,high_temperature
+A00547,M037,2026-03-19 00:00:00,warning,general_warning
+A00548,M037,2026-04-07 12:00:00,general_warning,general_warning
+A00549,M037,2026-04-10 12:00:00,warning,general_warning
+A00550,M037,2026-05-07 12:00:00,,unknown
+A00551,M037,2026-05-15 00:00:00,general_warning,general_warning
+A00552,M037,2026-05-18 12:00:00,Warning,general_warning
+A00553,M037,2026-05-27 12:00:00,Warning,general_warning
+A00554,M037,2026-06-10 00:00:00,general_warning,general_warning
+A00555,M037,2026-06-17 12:00:00,warning,general_warning
+A00556,M037,2026-07-16 12:00:00,general_warning,general_warning
+A00557,M037,2026-09-06 00:00:00,Warning,general_warning
+A00558,M037,2026-09-10 00:00:00,general_warning,general_warning
+A00559,M037,2026-09-10 12:00:00,general_warning,general_warning
+A00560,M038,2026-01-05 12:00:00,Warning,general_warning
+A00561,M038,2026-01-08 00:00:00,Warning,general_warning
+A00562,M038,2026-01-18 12:00:00,general_warning,general_warning
+A00563,M038,2026-01-21 00:00:00,warning,general_warning
+A00564,M038,2026-01-24 00:00:00,high_vibration,high_vibration
+A00565,M038,2026-01-26 00:00:00, high vibration ,high_vibration
+A00566,M038,2026-01-28 12:00:00,temp_high,high_temperature
+A00567,M038,2026-03-01 12:00:00,Warning,general_warning
+A00568,M038,2026-03-28 12:00:00,general_warning,general_warning
+A00569,M038,2026-06-01 12:00:00,general_warning,general_warning
+A00570,M038,2026-06-29 12:00:00,Warning,general_warning
+A00571,M038,2026-07-06 12:00:00,general_warning,general_warning
+A00572,M038,2026-07-10 12:00:00,High Vibration,high_vibration
+A00573,M038,2026-07-13 00:00:00,Warning,general_warning
+A00574,M038,2026-07-16 12:00:00,general_warning,general_warning
+A00575,M038,2026-07-21 12:00:00,Warning,general_warning
+A00576,M038,2026-08-18 12:00:00,Warning,general_warning
+A00577,M038,2026-09-06 00:00:00,Warning,general_warning
+A00578,M038,2026-09-07 00:00:00,warning,general_warning
+A00579,M038,2026-09-20 12:00:00,Warning,general_warning
+A00580,M039,2026-01-19 00:00:00,High Vibration,high_vibration
+A00581,M039,2026-01-28 12:00:00,warning,general_warning
+A00582,M039,2026-02-14 12:00:00,High Vibration,high_vibration
+A00583,M039,2026-03-06 00:00:00,Warning,general_warning
+A00584,M039,2026-03-06 12:00:00,overcurrent,overcurrent
+A00585,M039,2026-03-22 00:00:00,general_warning,general_warning
+A00586,M039,2026-03-29 12:00:00,general_warning,general_warning
+A00587,M039,2026-04-09 00:00:00,general_warning,general_warning
+A00588,M039,2026-05-13 12:00:00,Warning,general_warning
+A00589,M039,2026-07-07 12:00:00,general_warning,general_warning
+A00590,M039,2026-08-10 12:00:00, high vibration ,high_vibration
+A00591,M039,2026-08-12 00:00:00,over current,overcurrent
+A00592,M039,2026-08-20 00:00:00,high_vibration,high_vibration
+A00593,M039,2026-08-23 00:00:00,high_temperature,high_temperature
+A00594,M039,2026-09-08 12:00:00,Warning,general_warning
+A00595,M039,2026-09-10 00:00:00,warning,general_warning
+A00596,M039,2026-09-17 12:00:00,High Vibration,high_vibration
+A00597,M039,2026-09-18 12:00:00,Warning,general_warning
+A00598,M040,2026-01-08 12:00:00,Warning,general_warning
+A00599,M040,2026-01-16 12:00:00,general_warning,general_warning
+A00600,M040,2026-02-24 00:00:00,warning,general_warning
+A00601,M040,2026-02-24 12:00:00,general_warning,general_warning
+A00602,M040,2026-03-28 00:00:00,warning,general_warning
+A00603,M040,2026-06-12 12:00:00,general_warning,general_warning
+A00604,M040,2026-06-17 12:00:00,warning,general_warning
+A00605,M041,2026-01-01 00:00:00,general_warning,general_warning
+A00606,M041,2026-01-02 00:00:00,Warning,general_warning
+A00607,M041,2026-01-02 12:00:00,Warning,general_warning
+A00608,M041,2026-01-15 12:00:00,warning,general_warning
+A00609,M041,2026-01-29 12:00:00,general_warning,general_warning
+A00610,M041,2026-02-16 12:00:00,Warning,general_warning
+A00611,M041,2026-04-02 12:00:00,warning,general_warning
+A00612,M041,2026-04-05 00:00:00,Warning,general_warning
+A00613,M041,2026-09-28 12:00:00,warning,general_warning
+A00614,M041,2026-09-30 12:00:00,warning,general_warning
+A00615,M042,2026-01-04 00:00:00,high_vibration,high_vibration
+A00616,M042,2026-01-09 00:00:00,high_vibration,high_vibration
+A00617,M042,2026-01-13 00:00:00, high vibration ,high_vibration
+A00618,M042,2026-01-13 12:00:00,High Vibration,high_vibration
+A00619,M042,2026-01-20 12:00:00, high vibration ,high_vibration
+A00620,M042,2026-01-22 12:00:00,high_temperature,high_temperature
+A00621,M042,2026-01-25 12:00:00,High Temperature,high_temperature
+A00622,M042,2026-02-14 00:00:00,general_warning,general_warning
+A00623,M042,2026-02-21 00:00:00, high vibration ,high_vibration
+A00624,M042,2026-02-24 12:00:00,high_vibration,high_vibration
+A00625,M042,2026-02-25 00:00:00,temp_high,high_temperature
+A00626,M042,2026-02-26 12:00:00,High Vibration,high_vibration
+A00627,M042,2026-02-28 00:00:00,temp_high,high_temperature
+A00628,M042,2026-03-02 12:00:00,High Vibration,high_vibration
+A00629,M042,2026-03-04 12:00:00,high_vibration,high_vibration
+A00630,M042,2026-03-05 12:00:00,high_vibration,high_vibration
+A00631,M042,2026-03-06 00:00:00,High Vibration,high_vibration
+A00632,M042,2026-03-06 12:00:00, high vibration ,high_vibration
+A00633,M042,2026-03-09 12:00:00,high_vibration,high_vibration
+A00634,M042,2026-03-14 12:00:00,High Vibration,high_vibration
+A00635,M042,2026-03-16 12:00:00,High Vibration,high_vibration
+A00636,M042,2026-03-29 12:00:00,high_vibration,high_vibration
+A00637,M042,2026-04-07 00:00:00,Warning,general_warning
+A00638,M042,2026-04-21 00:00:00,high_vibration,high_vibration
+A00639,M042,2026-04-25 00:00:00,high_temperature,high_temperature
+A00640,M042,2026-04-25 12:00:00, high vibration ,high_vibration
+A00641,M042,2026-04-29 12:00:00,High Vibration,high_vibration
+A00642,M042,2026-05-04 00:00:00,high_temperature,high_temperature
+A00643,M042,2026-05-04 12:00:00,High Vibration,high_vibration
+A00644,M042,2026-05-06 12:00:00,high_temperature,high_temperature
+A00645,M042,2026-05-08 12:00:00,high_vibration,high_vibration
+A00646,M042,2026-05-13 00:00:00,high_vibration,high_vibration
+A00647,M042,2026-05-16 00:00:00, high vibration ,high_vibration
+A00648,M042,2026-05-20 12:00:00,high_vibration,high_vibration
+A00649,M042,2026-05-28 12:00:00,Warning,general_warning
+A00650,M042,2026-06-02 00:00:00, high vibration ,high_vibration
+A00651,M042,2026-06-04 12:00:00,warning,general_warning
+A00652,M042,2026-06-13 12:00:00,High Vibration,high_vibration
+A00653,M042,2026-06-15 12:00:00,high_vibration,high_vibration
+A00654,M042,2026-06-17 12:00:00,High Vibration,high_vibration
+A00655,M042,2026-06-20 00:00:00,High Vibration,high_vibration
+A00656,M042,2026-06-25 00:00:00,High Vibration,high_vibration
+A00657,M042,2026-07-02 12:00:00,high_vibration,high_vibration
+A00658,M042,2026-07-03 00:00:00,Warning,general_warning
+A00659,M042,2026-07-10 00:00:00,overcurrent,overcurrent
+A00660,M042,2026-07-11 12:00:00,temp_high,high_temperature
+A00661,M042,2026-07-16 00:00:00,general_warning,general_warning
+A00662,M042,2026-07-19 12:00:00, high vibration ,high_vibration
+A00663,M042,2026-07-27 12:00:00,overcurrent,overcurrent
+A00664,M042,2026-08-01 12:00:00,high_vibration,high_vibration
+A00665,M042,2026-08-02 00:00:00,high_vibration,high_vibration
+A00666,M042,2026-08-03 00:00:00,High Vibration,high_vibration
+A00667,M042,2026-08-07 12:00:00,Warning,general_warning
+A00668,M042,2026-08-08 00:00:00,high_temperature,high_temperature
+A00669,M042,2026-08-15 12:00:00, high vibration ,high_vibration
+A00670,M042,2026-08-18 12:00:00,high_vibration,high_vibration
+A00671,M042,2026-08-27 12:00:00,warning,general_warning
+A00672,M042,2026-08-29 12:00:00,Warning,general_warning
+A00673,M042,2026-09-02 12:00:00,High Vibration,high_vibration
+A00674,M042,2026-09-07 12:00:00,high_vibration,high_vibration
+A00675,M042,2026-09-12 12:00:00, high vibration ,high_vibration
+A00676,M042,2026-09-23 00:00:00,High Temperature,high_temperature
+A00677,M042,2026-09-29 00:00:00, high vibration ,high_vibration
+A00678,M043,2026-01-03 00:00:00,warning,general_warning
+A00679,M043,2026-02-01 00:00:00,warning,general_warning
+A00680,M043,2026-02-04 00:00:00, high vibration ,high_vibration
+A00681,M043,2026-02-17 12:00:00,general_warning,general_warning
+A00682,M043,2026-03-10 00:00:00,warning,general_warning
+A00683,M043,2026-03-30 12:00:00,Warning,general_warning
+A00684,M043,2026-04-09 00:00:00,warning,general_warning
+A00685,M043,2026-04-14 12:00:00,Warning,general_warning
+A00686,M043,2026-04-16 00:00:00,Warning,general_warning
+A00687,M043,2026-05-03 12:00:00,Warning,general_warning
+A00688,M043,2026-06-18 12:00:00,Warning,general_warning
+A00689,M043,2026-06-26 12:00:00,warning,general_warning
+A00690,M043,2026-07-06 12:00:00,general_warning,general_warning
+A00691,M043,2026-07-15 00:00:00,Warning,general_warning
+A00692,M043,2026-08-01 12:00:00,over current,overcurrent
+A00693,M043,2026-08-09 12:00:00,warning,general_warning
+A00694,M043,2026-08-19 00:00:00,Warning,general_warning
+A00695,M043,2026-08-24 00:00:00,general_warning,general_warning
+A00696,M043,2026-08-25 00:00:00,general_warning,general_warning
+A00697,M043,2026-08-26 12:00:00,general_warning,general_warning
+A00698,M043,2026-08-29 12:00:00,high_vibration,high_vibration
+A00699,M043,2026-09-07 12:00:00,general_warning,general_warning
+A00700,M043,2026-09-16 12:00:00,warning,general_warning
+A00701,M043,2026-09-18 12:00:00,general_warning,general_warning
+A00702,M044,2026-01-04 00:00:00,Warning,general_warning
+A00703,M044,2026-01-05 12:00:00,general_warning,general_warning
+A00704,M044,2026-01-23 00:00:00,warning,general_warning
+A00705,M044,2026-03-16 00:00:00,warning,general_warning
+A00706,M044,2026-05-15 12:00:00,general_warning,general_warning
+A00707,M044,2026-05-18 12:00:00,Warning,general_warning
+A00708,M044,2026-06-05 12:00:00,warning,general_warning
+A00709,M044,2026-07-14 00:00:00,warning,general_warning
+A00710,M044,2026-07-22 12:00:00,general_warning,general_warning
+A00711,M044,2026-07-28 12:00:00,general_warning,general_warning
+A00712,M044,2026-08-06 12:00:00,general_warning,general_warning
+A00713,M044,2026-08-25 12:00:00,Warning,general_warning
+A00714,M044,2026-09-10 12:00:00,Warning,general_warning
+A00715,M044,2026-09-23 12:00:00, high vibration ,high_vibration
+A00716,M045,2026-03-16 12:00:00,general_warning,general_warning
+A00717,M045,2026-03-29 00:00:00,Warning,general_warning
+A00718,M045,2026-04-08 00:00:00,Warning,general_warning
+A00719,M045,2026-04-28 12:00:00,general_warning,general_warning
+A00720,M045,2026-05-26 12:00:00,warning,general_warning
+A00721,M045,2026-06-02 12:00:00,Warning,general_warning
+A00722,M045,2026-06-16 00:00:00,general_warning,general_warning
+A00723,M045,2026-06-28 12:00:00,Warning,general_warning
+A00724,M045,2026-08-18 00:00:00,warning,general_warning
+A00725,M045,2026-09-03 12:00:00,,unknown
+A00726,M045,2026-09-22 12:00:00,warning,general_warning
+A00727,M045,2026-09-30 00:00:00,warning,general_warning
+A00728,M046,2026-02-08 00:00:00,Warning,general_warning
+A00729,M046,2026-02-20 00:00:00,Warning,general_warning
+A00730,M046,2026-03-12 12:00:00,warning,general_warning
+A00731,M046,2026-04-27 12:00:00,warning,general_warning
+A00732,M046,2026-05-14 00:00:00,Warning,general_warning
+A00733,M046,2026-05-19 12:00:00,general_warning,general_warning
+A00734,M046,2026-05-21 00:00:00,warning,general_warning
+A00735,M046,2026-05-27 12:00:00,Warning,general_warning
+A00736,M046,2026-05-30 00:00:00,Warning,general_warning
+A00737,M046,2026-06-01 00:00:00,warning,general_warning
+A00738,M046,2026-07-08 12:00:00,general_warning,general_warning
+A00739,M046,2026-07-14 00:00:00,general_warning,general_warning
+A00740,M046,2026-08-27 00:00:00,Warning,general_warning
+A00741,M046,2026-08-28 12:00:00,Warning,general_warning
+A00742,M047,2026-03-01 12:00:00,Warning,general_warning
+A00743,M047,2026-03-06 12:00:00,warning,general_warning
+A00744,M047,2026-03-30 12:00:00,warning,general_warning
+A00745,M047,2026-06-23 12:00:00,general_warning,general_warning
+A00746,M047,2026-07-24 00:00:00,general_warning,general_warning
+A00747,M047,2026-08-09 00:00:00,warning,general_warning
+A00748,M047,2026-08-30 12:00:00,warning,general_warning
+A00749,M047,2026-09-10 00:00:00,general_warning,general_warning
+A00750,M047,2026-09-26 12:00:00,general_warning,general_warning
+A00751,M048,2026-01-11 12:00:00,general_warning,general_warning
+A00752,M048,2026-02-22 00:00:00,warning,general_warning
+A00753,M048,2026-06-03 12:00:00,Warning,general_warning
+A00754,M048,2026-07-02 12:00:00,general_warning,general_warning
+A00755,M048,2026-07-23 00:00:00,Warning,general_warning
+A00756,M048,2026-08-24 12:00:00,warning,general_warning
+A00757,M048,2026-09-27 00:00:00,overcurrent,overcurrent
+A00758,M049,2026-01-08 00:00:00,warning,general_warning
+A00759,M049,2026-01-25 12:00:00,warning,general_warning
+A00760,M049,2026-01-29 12:00:00,Warning,general_warning
+A00761,M049,2026-02-01 00:00:00,general_warning,general_warning
+A00762,M049,2026-02-15 00:00:00,warning,general_warning
+A00763,M049,2026-02-16 12:00:00,general_warning,general_warning
+A00764,M049,2026-03-16 12:00:00,Warning,general_warning
+A00765,M049,2026-04-19 00:00:00,warning,general_warning
+A00766,M049,2026-04-21 00:00:00,general_warning,general_warning
+A00767,M049,2026-07-10 00:00:00,general_warning,general_warning
+A00768,M049,2026-07-19 12:00:00,warning,general_warning
+A00769,M049,2026-07-26 12:00:00,Warning,general_warning
+A00770,M049,2026-08-04 12:00:00,Warning,general_warning
+A00771,M049,2026-09-10 12:00:00,warning,general_warning
+A00772,M050,2026-02-15 00:00:00,warning,general_warning
+A00773,M050,2026-03-01 12:00:00,Warning,general_warning
+A00774,M050,2026-03-15 00:00:00,warning,general_warning
+A00775,M050,2026-05-16 00:00:00,Warning,general_warning
+A00776,M050,2026-05-31 12:00:00,general_warning,general_warning
+A00777,M050,2026-06-17 00:00:00,Warning,general_warning
+A00778,M050,2026-07-17 12:00:00,Warning,general_warning
+A00779,M050,2026-07-21 12:00:00,Warning,general_warning
+A00780,M050,2026-09-07 12:00:00,warning,general_warning
+A00781,M050,2026-09-25 00:00:00,warning,general_warning
+A00782,M050,2026-09-30 00:00:00,warning,general_warning
+A00783,M051,2026-01-04 00:00:00,Warning,general_warning
+A00784,M051,2026-02-03 00:00:00,warning,general_warning
+A00785,M051,2026-02-23 00:00:00,warning,general_warning
+A00786,M051,2026-04-01 12:00:00,Warning,general_warning
+A00787,M051,2026-04-02 12:00:00,general_warning,general_warning
+A00788,M051,2026-04-12 00:00:00,Warning,general_warning
+A00789,M051,2026-05-14 12:00:00,warning,general_warning
+A00790,M051,2026-05-16 00:00:00,general_warning,general_warning
+A00791,M051,2026-06-11 00:00:00,warning,general_warning
+A00792,M051,2026-06-20 00:00:00,general_warning,general_warning
+A00793,M051,2026-07-25 12:00:00,warning,general_warning
+A00794,M052,2026-01-23 00:00:00,general_warning,general_warning
+A00795,M052,2026-01-23 12:00:00,general_warning,general_warning
+A00796,M052,2026-03-19 00:00:00,warning,general_warning
+A00797,M052,2026-04-14 00:00:00,Warning,general_warning
+A00798,M052,2026-04-24 12:00:00,,unknown
+A00799,M052,2026-05-07 00:00:00,general_warning,general_warning
+A00800,M052,2026-05-13 00:00:00,general_warning,general_warning
+A00801,M052,2026-06-24 12:00:00,warning,general_warning
+A00802,M052,2026-08-18 00:00:00,general_warning,general_warning
+A00803,M052,2026-08-19 00:00:00,Warning,general_warning
+A00804,M052,2026-08-21 12:00:00,Warning,general_warning
+A00805,M052,2026-09-05 12:00:00,general_warning,general_warning
+A00806,M053,2026-01-02 00:00:00,high_vibration,high_vibration
+A00807,M053,2026-01-02 12:00:00,High Vibration,high_vibration
+A00808,M053,2026-01-03 00:00:00, high vibration ,high_vibration
+A00809,M053,2026-01-05 00:00:00, high vibration ,high_vibration
+A00810,M053,2026-01-09 12:00:00, high vibration ,high_vibration
+A00811,M053,2026-01-11 00:00:00,temp_high,high_temperature
+A00812,M053,2026-01-13 12:00:00,general_warning,general_warning
+A00813,M053,2026-01-21 12:00:00,high_vibration,high_vibration
+A00814,M053,2026-01-22 00:00:00,high_vibration,high_vibration
+A00815,M053,2026-02-02 00:00:00,High Vibration,high_vibration
+A00816,M053,2026-02-02 12:00:00,general_warning,general_warning
+A00817,M053,2026-02-17 12:00:00,warning,general_warning
+A00818,M053,2026-02-22 00:00:00,temp_high,high_temperature
+A00819,M053,2026-02-23 00:00:00,High Temperature,high_temperature
+A00820,M053,2026-02-23 12:00:00,overcurrent,overcurrent
+A00821,M053,2026-03-02 12:00:00,warning,general_warning
+A00822,M053,2026-03-04 12:00:00, high vibration ,high_vibration
+A00823,M053,2026-03-10 00:00:00,high_vibration,high_vibration
+A00824,M053,2026-03-12 12:00:00, high vibration ,high_vibration
+A00825,M053,2026-03-14 00:00:00, high vibration ,high_vibration
+A00826,M053,2026-03-20 00:00:00, high vibration ,high_vibration
+A00827,M053,2026-03-31 12:00:00, high vibration ,high_vibration
+A00828,M053,2026-04-17 12:00:00,over current,overcurrent
+A00829,M053,2026-04-18 00:00:00,Warning,general_warning
+A00830,M053,2026-04-19 12:00:00,Warning,general_warning
+A00831,M053,2026-04-20 12:00:00,over current,overcurrent
+A00832,M053,2026-04-24 12:00:00,temp_high,high_temperature
+A00833,M053,2026-05-04 12:00:00, high vibration ,high_vibration
+A00834,M053,2026-05-16 00:00:00,high_vibration,high_vibration
+A00835,M053,2026-05-30 12:00:00,high_temperature,high_temperature
+A00836,M053,2026-05-31 00:00:00,high_vibration,high_vibration
+A00837,M053,2026-06-05 00:00:00,High Vibration,high_vibration
+A00838,M053,2026-06-08 12:00:00, high vibration ,high_vibration
+A00839,M053,2026-06-12 12:00:00,high_vibration,high_vibration
+A00840,M053,2026-06-21 12:00:00,warning,general_warning
+A00841,M053,2026-06-23 12:00:00,High Vibration,high_vibration
+A00842,M053,2026-06-26 12:00:00,warning,general_warning
+A00843,M053,2026-06-27 12:00:00,High Vibration,high_vibration
+A00844,M053,2026-06-28 00:00:00,High Vibration,high_vibration
+A00845,M053,2026-07-01 00:00:00, high vibration ,high_vibration
+A00846,M053,2026-07-08 00:00:00, high vibration ,high_vibration
+A00847,M053,2026-07-09 00:00:00,overcurrent,overcurrent
+A00848,M053,2026-07-12 00:00:00,High Vibration,high_vibration
+A00849,M053,2026-07-15 00:00:00,general_warning,general_warning
+A00850,M053,2026-07-17 00:00:00,temp_high,high_temperature
+A00851,M053,2026-07-17 12:00:00,High Vibration,high_vibration
+A00852,M053,2026-07-23 00:00:00, high vibration ,high_vibration
+A00853,M053,2026-07-24 00:00:00, high vibration ,high_vibration
+A00854,M053,2026-07-26 00:00:00,high_vibration,high_vibration
+A00855,M053,2026-08-02 00:00:00,High Vibration,high_vibration
+A00856,M053,2026-08-07 00:00:00,warning,general_warning
+A00857,M053,2026-08-09 00:00:00, high vibration ,high_vibration
+A00858,M053,2026-08-17 00:00:00,high_vibration,high_vibration
+A00859,M053,2026-08-20 00:00:00,high_vibration,high_vibration
+A00860,M053,2026-08-23 12:00:00,High Vibration,high_vibration
+A00861,M053,2026-08-24 00:00:00,High Vibration,high_vibration
+A00862,M053,2026-08-24 12:00:00,high_vibration,high_vibration
+A00863,M053,2026-08-25 00:00:00,high_vibration,high_vibration
+A00864,M053,2026-08-25 12:00:00,High Vibration,high_vibration
+A00865,M053,2026-08-26 12:00:00,Warning,general_warning
+A00866,M053,2026-09-07 12:00:00,High Temperature,high_temperature
+A00867,M053,2026-09-09 00:00:00,high_vibration,high_vibration
+A00868,M053,2026-09-12 12:00:00,Warning,general_warning
+A00869,M053,2026-09-14 12:00:00,High Temperature,high_temperature
+A00870,M053,2026-09-16 00:00:00, high vibration ,high_vibration
+A00871,M053,2026-09-25 12:00:00,over current,overcurrent
+A00872,M053,2026-09-26 12:00:00,high_temperature,high_temperature
+A00873,M053,2026-09-27 12:00:00,temp_high,high_temperature
+A00874,M054,2026-04-22 12:00:00,warning,general_warning
+A00875,M054,2026-04-28 00:00:00,Warning,general_warning
+A00876,M054,2026-04-30 00:00:00,warning,general_warning
+A00877,M054,2026-08-02 00:00:00,Warning,general_warning
+A00878,M054,2026-09-16 12:00:00,warning,general_warning
+A00879,M055,2026-01-03 00:00:00,warning,general_warning
+A00880,M055,2026-02-21 12:00:00,warning,general_warning
+A00881,M055,2026-03-04 12:00:00,general_warning,general_warning
+A00882,M055,2026-03-11 00:00:00,Warning,general_warning
+A00883,M055,2026-03-28 12:00:00,Warning,general_warning
+A00884,M055,2026-04-04 00:00:00,general_warning,general_warning
+A00885,M055,2026-04-06 12:00:00,Warning,general_warning
+A00886,M055,2026-05-13 00:00:00,general_warning,general_warning
+A00887,M055,2026-05-17 12:00:00,Warning,general_warning
+A00888,M055,2026-05-29 12:00:00,Warning,general_warning
+A00889,M055,2026-06-29 12:00:00,general_warning,general_warning
+A00890,M055,2026-07-30 12:00:00,Warning,general_warning
+A00891,M055,2026-08-12 12:00:00,Warning,general_warning
+A00892,M055,2026-08-22 12:00:00,Warning,general_warning
+A00893,M056,2026-01-08 12:00:00,warning,general_warning
+A00894,M056,2026-01-10 00:00:00,warning,general_warning
+A00895,M056,2026-03-31 12:00:00,Warning,general_warning
+A00896,M056,2026-04-20 12:00:00,general_warning,general_warning
+A00897,M056,2026-05-10 00:00:00,Warning,general_warning
+A00898,M056,2026-05-25 12:00:00,warning,general_warning
+A00899,M056,2026-06-02 00:00:00,Warning,general_warning
+A00900,M056,2026-06-08 00:00:00,general_warning,general_warning
+A00901,M056,2026-06-28 00:00:00,warning,general_warning
+A00902,M056,2026-09-03 12:00:00,general_warning,general_warning
+A00903,M057,2026-01-14 12:00:00,Over Current,overcurrent
+A00904,M057,2026-01-16 12:00:00,High Vibration,high_vibration
+A00905,M057,2026-02-16 12:00:00,warning,general_warning
+A00906,M057,2026-04-03 12:00:00,Warning,general_warning
+A00907,M057,2026-06-11 12:00:00,warning,general_warning
+A00908,M057,2026-07-26 12:00:00,warning,general_warning
+A00909,M057,2026-08-01 00:00:00,warning,general_warning
+A00910,M057,2026-08-04 00:00:00,warning,general_warning
+A00911,M057,2026-08-25 12:00:00,general_warning,general_warning
+A00912,M057,2026-09-06 00:00:00,general_warning,general_warning
+A00913,M057,2026-09-16 00:00:00,Warning,general_warning
+A00914,M057,2026-09-25 12:00:00,general_warning,general_warning
+A00915,M058,2026-01-03 12:00:00,general_warning,general_warning
+A00916,M058,2026-01-25 00:00:00,Warning,general_warning
+A00917,M058,2026-01-27 12:00:00,Warning,general_warning
+A00918,M058,2026-02-01 12:00:00,warning,general_warning
+A00919,M058,2026-02-09 00:00:00,Warning,general_warning
+A00920,M058,2026-02-19 00:00:00,general_warning,general_warning
+A00921,M058,2026-03-23 00:00:00,warning,general_warning
+A00922,M058,2026-03-26 12:00:00,warning,general_warning
+A00923,M058,2026-04-14 12:00:00,general_warning,general_warning
+A00924,M058,2026-04-16 12:00:00,Warning,general_warning
+A00925,M058,2026-05-01 12:00:00,general_warning,general_warning
+A00926,M058,2026-05-11 00:00:00,general_warning,general_warning
+A00927,M058,2026-05-27 00:00:00,general_warning,general_warning
+A00928,M058,2026-05-27 12:00:00,general_warning,general_warning
+A00929,M058,2026-06-26 00:00:00,general_warning,general_warning
+A00930,M058,2026-07-03 12:00:00,warning,general_warning
+A00931,M058,2026-07-14 12:00:00,warning,general_warning
+A00932,M058,2026-08-02 00:00:00,High Temperature,high_temperature
+A00933,M058,2026-08-13 00:00:00,Warning,general_warning
+A00934,M058,2026-08-18 00:00:00,general_warning,general_warning
+A00935,M059,2026-01-03 12:00:00,general_warning,general_warning
+A00936,M059,2026-01-17 00:00:00,general_warning,general_warning
+A00937,M059,2026-01-30 00:00:00,general_warning,general_warning
+A00938,M059,2026-02-20 12:00:00,warning,general_warning
+A00939,M059,2026-03-21 00:00:00,general_warning,general_warning
+A00940,M059,2026-05-29 00:00:00,general_warning,general_warning
+A00941,M059,2026-06-19 00:00:00,warning,general_warning
+A00942,M059,2026-06-22 12:00:00,Warning,general_warning
+A00943,M059,2026-07-24 12:00:00,general_warning,general_warning
+A00944,M059,2026-07-25 12:00:00,Warning,general_warning
+A00945,M059,2026-08-09 00:00:00,high_temperature,high_temperature
+A00946,M059,2026-08-16 00:00:00,Warning,general_warning
+A00947,M059,2026-08-18 00:00:00,high_temperature,high_temperature
+A00948,M060,2026-01-04 12:00:00,general_warning,general_warning

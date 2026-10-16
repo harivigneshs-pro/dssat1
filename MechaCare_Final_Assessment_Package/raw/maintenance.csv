@@ -1,0 +1,107 @@
+service_event_id,machine,service_date,action,downtime
+S0001,M001,2026-06-24,Bearing replacement,11.3
+S0002,M001,2026-07-06,Motor repair,9.0
+S0003,M001,2026-07-30,Inspection,6.4
+S0004,M002,2026-04-04,Bearing replacement,6.9
+S0005,M003,2026-01-13,Calibration,4.7
+S0006,M003,2026-04-05,Belt replacement,7.7
+S0007,M003,2026-05-12,Calibration,6.4
+S0008,M003,2026-07-10,Lubrication,3.1
+S0009,M004,2026-02-26,Motor repair,13.6
+S0010,M004,2026-03-09,Inspection,11.3
+S0011,M004,2026-05-22,Bearing replacement,7.4
+S0012,M004,2026-07-08,Bearing replacement,
+S0013,M005,2026-06-11,,11.3
+S0014,M006,2026-05-22,Bearing replacement,11.8
+S0015,M006,2026-06-15,Lubrication,5.0
+S0016,M007,2026-04-24,Bearing replacement,4.1
+S0017,M009,2026-02-14,Motor repair,15.6
+S0018,M009,2026-06-06,Belt replacement,11.6
+S0019,M010,2026-02-16,Belt replacement,15.4
+S0020,M011,2026-03-07,,14.0
+S0021,M011,2026-03-17,Inspection,15.7
+S0022,M012,2026-04-26,Inspection,2.9
+S0023,M013,2026-04-22,Inspection,23.9
+S0024,M013,2026-07-07,Calibration,1.9
+S0025,M013,2026-07-14,Calibration,2.2
+S0026,M014,2026-05-10,Calibration,3.7
+S0027,M014,2026-05-31,Motor repair,10.6
+S0028,M015,2026-02-01,Inspection,7.3
+S0029,M015,2026-05-15,Bearing replacement,6.0
+S0030,M015,2026-08-04,Calibration,8.0
+S0031,M016,2026-02-08,Lubrication,11.7
+S0032,M017,2026-01-19,Belt replacement,5.3
+S0033,M017,2026-07-08,Belt replacement,7.2
+S0034,M018,2026-05-12,Inspection,10.3
+S0035,M019,2026-08-06,Bearing replacement,16.4
+S0036,M019,2026-08-16,Inspection,5.2
+S0037,M020,2026-07-05,Bearing replacement,3.1
+S0038,M021,2026-08-25,Inspection,2.5
+S0039,M022,2026-03-19,Inspection,4.4
+S0040,M022,2026-05-19,Inspection,17.5
+S0041,M022,2026-08-25,Lubrication,6.2
+S0042,M023,2026-06-07,Lubrication,6.4
+S0043,M023,2026-06-12,Motor repair,3.1
+S0044,M024,2026-02-28,Inspection,5.0
+S0045,M024,2026-05-01,Lubrication,7.4
+S0046,M024,2026-07-01,Belt replacement,3.3
+S0047,M027,2026-02-01,Motor repair,
+S0048,M027,2026-06-22,Bearing replacement,11.7
+S0049,M027,2026-07-08,Calibration,10.0
+S0050,M027,2026-07-28,Lubrication,16.4
+S0051,M028,2026-04-11,Bearing replacement,3.2
+S0052,M028,2026-05-17,Calibration,3.9
+S0053,M028,2026-06-18,Bearing replacement,2.4
+S0054,M029,2026-02-16,Bearing replacement,7.7
+S0055,M029,2026-07-21,,3.2
+S0056,M030,2026-09-18,Motor repair,6.2
+S0057,M031,2026-08-09,Bearing replacement,17.2
+S0058,M031,2026-09-01,Motor repair,10.6
+S0059,M032,2026-07-25,Lubrication,10.1
+S0060,M033,2026-01-10,Lubrication,2.7
+S0061,M033,2026-01-12,Motor repair,6.3
+S0062,M033,2026-06-10,Bearing replacement,4.5
+S0063,M034,2026-06-26,Bearing replacement,5.2
+S0064,M034,2026-07-08,Motor repair,16.1
+S0065,M035,2026-01-11,Bearing replacement,20.3
+S0066,M036,2026-02-24,Lubrication,10.1
+S0067,M036,2026-04-01,Motor repair,8.1
+S0068,M037,2026-03-15,Calibration,3.1
+S0069,M038,2026-01-31,Bearing replacement,5.3
+S0070,M038,2026-05-02,Inspection,5.0
+S0071,M038,2026-05-03,Inspection,4.0
+S0072,M038,2026-06-22,Lubrication,3.6
+S0073,M039,2026-02-26,Motor repair,9.0
+S0074,M039,2026-03-13,Bearing replacement,6.8
+S0075,M039,2026-08-20,Belt replacement,14.5
+S0076,M040,2026-09-16,Bearing replacement,3.9
+S0077,M041,2026-01-14,Motor repair,5.1
+S0078,M041,2026-01-27,Inspection,5.8
+S0079,M042,2026-01-13,Inspection,6.5
+S0080,M042,2026-01-20,Motor repair,13.9
+S0081,M042,2026-03-07,Bearing replacement,13.2
+S0082,M042,2026-05-09,Bearing replacement,9.2
+S0083,M043,2026-02-14,Lubrication,7.9
+S0084,M047,2026-01-10,Calibration,14.3
+S0085,M047,2026-07-28,Motor repair,17.9
+S0086,M048,2026-07-08,Belt replacement,4.6
+S0087,M050,2026-07-02,Inspection,4.5
+S0088,M051,2026-01-30,Inspection,10.6
+S0089,M051,2026-09-02,Calibration,7.2
+S0090,M052,2026-02-02,Inspection,4.3
+S0091,M052,2026-04-28,Calibration,5.0
+S0092,M052,2026-08-09,Inspection,6.3
+S0093,M052,2026-09-06,Inspection,9.5
+S0094,M053,2026-01-10,Inspection,11.9
+S0095,M053,2026-03-21,Motor repair,10.4
+S0096,M053,2026-08-02,Belt replacement,15.2
+S0097,M053,2026-08-25,Belt replacement,14.8
+S0098,M055,2026-03-07,Bearing replacement,27.2
+S0099,M056,2026-01-30,Belt replacement,5.4
+S0100,M056,2026-06-27,Inspection,5.6
+S0101,M057,2026-01-22,Bearing replacement,6.0
+S0102,M058,2026-04-30,Lubrication,17.7
+S0103,M058,2026-08-02,Calibration,9.0
+S0104,M059,2026-08-22,Motor repair,21.5
+S0105,M060,2026-06-13,Bearing replacement,8.4
+S0106,M060,2026-08-03,Inspection,5.0

@@ -1,0 +1,23 @@
+file,field,type,definition
+sensor.csv,timestamp,datetime,Sensor observation time; irregular sampling
+sensor.csv,machine,string,Machine identifier
+sensor.csv,vibration,numeric,Synthetic vibration reading; unit not specified
+sensor.csv,temperature,numeric,Synthetic temperature reading; unit not specified
+sensor.csv,current,numeric,Synthetic current reading; unit not specified
+machines.csv,machine,string,Machine identifier
+machines.csv,type,category,Machine category
+machines.csv,age,numeric,"Age in years, estimated as of 2026-10-01"
+machines.csv,installation_date,date,Installation date
+usage.csv,week_start,date,Week start date
+usage.csv,runtime,numeric,Weekly runtime; synthetic unit not specified
+usage.csv,load,numeric,Synthetic load index (0–100 scale)
+usage.csv,cycles,integer,Synthetic cycle count
+alarms.csv,alarm_id,string,Synthetic alarm identifier
+alarms.csv,machine,string,Machine identifier
+alarms.csv,timestamp,datetime,Alarm time
+alarms.csv,alarm_type,category,Raw alarm label; intentionally inconsistent
+maintenance.csv,service_event_id,string,Synthetic service-event identifier
+maintenance.csv,machine,string,Machine identifier
+maintenance.csv,service_date,date,Service date
+maintenance.csv,action,category,Service action; some intentionally missing
+maintenance.csv,downtime,numeric,Known downtime value; unit assumed hours for practice only
